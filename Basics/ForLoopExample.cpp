@@ -1,3 +1,4 @@
+//for loop with array
 #include <iostream>
 using namespace std;
 int main(){
